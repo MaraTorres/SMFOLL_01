@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(DescTools, Mode)
+importFrom(stats,optim)
+import(survival)
